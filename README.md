@@ -1,4 +1,4 @@
-# C++ Projects and Problem Solutions
+# C Projects and Problem Solutions
 
 Welcome to my C repository! This repository serves as a demonstration of my skills and proficiency in the C programming language. Here, you'll find a collection of projects, problem solutions, and code snippets that showcase my knowledge and expertise in C development.
 
